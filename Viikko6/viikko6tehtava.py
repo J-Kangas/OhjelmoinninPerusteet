@@ -1,6 +1,6 @@
 # Copyright (c) 2025 Jonna Kangas
 
-# Ohjelmoinnin perusteet -opintojakso, harjoitustehtävä 5A
+# Ohjelmoinnin perusteet -opintojakso, harjoitustehtävä 6
 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published by
